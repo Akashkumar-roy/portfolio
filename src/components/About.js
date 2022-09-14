@@ -19,7 +19,7 @@ const About = () => {
             <br></br>
             Live In :- Bhopal (MP)
             <br></br>
-            College :- Laxmi Narian College Of Technology (LNCT)
+            College :- Laxmi Narain College Of Technology (LNCT)
             </p>
 
         </section>

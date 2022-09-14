@@ -20,7 +20,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/Akashkumar-roy/AssetManagement" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
