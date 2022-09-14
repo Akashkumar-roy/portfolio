@@ -6,15 +6,22 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+            I take responsibility for what I say, but I am not responsible for what you do not understand.
+            <br></br>
+            <br></br>
+            Email id:- akashkumarroy7276@gmail.com
+            <br></br>
+            Add :- Gautam Buddha Colony Barki Delha (GAYA) 
+            <br></br>
+            Mob :-    7033734533
+            <br></br>
+            Home Town :- Gaya (Bihar)
+            <br></br>
+            Live In :- Bhopal (MP)
+            <br></br>
+            College :- Laxmi Narian College Of Technology (LNCT)
             </p>
+
         </section>
     );
 }

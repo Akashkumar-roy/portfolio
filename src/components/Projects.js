@@ -11,11 +11,12 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>Uniswap</h3>
+                    <h3>Asset Management</h3>
                     <img src={uniswap} alt="Uniswap Swap Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <p>Asset Management project is bassically based on how to manage the asset the task that are
+                        require for any bussiness.
+                        <br></br>
+                       Technology used - ASP.NET, ABP Framework,Syncfusion,BlazorUI
                     </p>
 
                     <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
@@ -23,11 +24,12 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Compound</h3>
+                    <h3>Portfolio</h3>
                     <img src={compound} alt="Compound Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <p>Portfolio in which we show all the work that we done in our whole study line from
+                        this we can show what achivement that we get.
+                        <br></br>
+                        Technology used- React,HTML,CSS,JavaScript
                     </p>
 
                     <a href="https://compound.finance/" target="_blank" className="button">Site</a>
@@ -35,11 +37,12 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Aave</h3>
+                    <h3>UI/UX(LandingPage)</h3>
                     <img src={aave} alt="Aave Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <p>Landing  Page is bassically this is the first and last impression for any website and for
+                        any industries because it shows the user inter face that really attractive.
+                        <br></br>
+                        Technology used- HTML,CSS 
                     </p>
 
                     <a href="https://aave.com/" target="_blank" className="button">Site</a>
